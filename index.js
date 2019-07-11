@@ -6,3 +6,5 @@ console.log('this is from github -- remote')
 
 soiafjsdiofjadsoifjioads
 
+
+conflicting change

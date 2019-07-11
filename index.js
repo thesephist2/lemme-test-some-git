@@ -1,6 +1,6 @@
 change i one
 
-console.log('this is from github -- remote')
+console.log('apricot seeds, apricot stems, this is from github -- remote')
 
 'this is going to cause a merge conflict'
 

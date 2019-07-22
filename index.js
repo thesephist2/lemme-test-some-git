@@ -7,9 +7,3 @@ console.log('apricot seeds, apricot stems, this is from github -- remote')
 
 change from replit
 ensure test test test
-
-
-some more chagnes
-1. apples
-2. fruits
-3. oranges

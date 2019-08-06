@@ -6,3 +6,4 @@ console.log(my_str);
 const str = 'removing git conflict!'
 
 console.log(my_str, str);
+console.log(str, my_str); // reversed!

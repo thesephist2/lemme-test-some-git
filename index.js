@@ -7,3 +7,7 @@ const str = 'removing git conflict!'
 
 console.log(my_str, str);
 console.log(str, my_str); // reversed!
+
+for (let i = 0; i < 10; i ++) {
+  console.log(i);
+}

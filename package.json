@@ -1,0 +1,23 @@
+{
+  "name": "runner",
+  "version": "1.0.0",
+  "description": "lemme test some git!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesephist2/lemme-test-some-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesephist2/lemme-test-some-git/issues"
+  },
+  "homepage": "https://github.com/thesephist2/lemme-test-some-git#readme",
+  "dependencies": {
+    "react-redux": "^7.1.0"
+  }
+}

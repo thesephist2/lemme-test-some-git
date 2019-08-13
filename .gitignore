@@ -6,3 +6,4 @@
 .upm
 .cache
 .npm
+node_modules/
